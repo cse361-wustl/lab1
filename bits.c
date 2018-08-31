@@ -211,7 +211,7 @@ int bitCount(int x) {
   return 2;
 }
 /* 
- * allEvenBits - return 1 if all even-numbered bits in word set to 1
+ * allEvenBits - return 1 if all even-numbered bits in word are set to 1
  *   Examples allEvenBits(0xFFFFFFFE) = 0, allEvenBits(0x55555555) = 1
  *   Legal ops: ! ~ & ^ | + << >>
  *   Max ops: 12
